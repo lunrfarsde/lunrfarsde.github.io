@@ -1,0 +1,72 @@
+{
+	"header": {
+		"cvOf": "CV <span>Arif Kalaycı</span>",
+		"title": "Yazılım Mühendisi"
+	},
+	"about": {
+		"title": "Hakkında",
+		"about": "Yazılım mühendisi. 10 yıl boyunca askeriyede subay olarak çalıştıktan sonra yüzbaşıyken istifa ederek freelance çalışmaya başladım. Ağırlıklı olarak büyük boyutlu sistemlerin dizaynı, kodlanması ve işletilmesi konusunda deneyimliyim. Ancak her türlü programlama konusunda amatör ve profesyonel olarak ilgiliyim.",
+		"quote": "Basitlik, etkinliğin ruhudur.<footer> &mdash; Austin Freeman</footer>"		
+	},
+	"projects": {
+		"title": "Projeler",
+		"easyTransfer": {
+			"about": "Transfer acentaları için hazırlanmış bir web uygulaması. Kullanılan teknolojiler: Spring, Hibernate, Google Maps, MySQL"
+		},
+		"spellTest": {
+			"about": "Basit bir online kelime oyunu. Kullanılan teknolojiler: node.js, express, jade, MongoDB"
+		}
+	},
+	"experience": {
+		"title": "Deneyim",
+		"kkk": {
+			"title": "Yazılım Mühendisi",
+			"description": "KKK Bilgi Sistemler Dairesi &mdash; <a href='http://www.kkk.tsk.tr'>www.kkk.tsk</a><br/>10 yıl, 2003 &mdash; 2013",
+			"highlights": {
+				"1": "'Alan Odaklı Mimari' ilkelerini kullanarak Kara Kuvvetleri için Lojistik Bilgi Sistemi (LBS)'yi geliştiren ekibin içinde yer aldım.",
+				"2": "Yazılım süreçlerinin bütün aşamalarında sorumluluk aldım.",
+				"3": "Ülke çapında yaklaşık 1000 kişilik bir kullanıcı kitlesine destek sağladım.",
+				"4": "Farklı sistemlerin entegrasyonu projelerinde görev aldım.",
+				"5": "Web uygulamaları için REST API geliştirdim.",
+				"6": "Genç yazılımcıları yardım ve rehberlik yaptım."
+			}
+		},
+		"intern": "Stajyer",
+		"months": "ay"
+	},
+	"skills": {
+		"title": "Yetenekler",
+		"databases": {
+			"title": "Veri Tabanları",
+			"description": "İlişkisel veri tabanları konusunda derin bilgi sahibiyim. Oracle 9i, 10g, 11g veri tabanı sistemleriyle geniş tecrübem bulunmaktadır. Ayrıca kişisel ve freelance projelerim için Postgres, MySQL ve MongoDB kullandım."
+		},
+		"design": {
+			"title": "Dizayn",
+			"description": "Alan Odaklı Mimari, UML"
+		},
+		"backend": {
+			"title": "Programlama",
+			"description": "Eski işimden dolayı Java ekosistemi (özellikle Spring ve Hibernate) ve PL/SQL hakkında dair bilgim bulunmaktadır. Şu an Ruby on Rails kullanıyorum. PHP ve node.js tecrübem de bulunmaktadır."
+		},
+		"frontend": {
+			"title": "Kullanıcı arayüzü Programlama",
+			"description": "JSP, Javascript, jQuery, HTML5, knockout.js"
+		},
+		"source": {
+			"title": "Kaynak Kontrol",
+			"description": "Git'in hayranıyım. Ayrıca Rational ClearCase kullandım."
+		}
+	},
+	"info": {
+		"name": "İsim",
+		"education": {
+			"title": "Öğrenim",
+			"text": "Marmara Üniversitesi Bilgisayar Mühendisliği Fakültesi (3.13 / 4, 5'nci)"
+		},
+		"languages": {
+			"title": "Diller",
+			"turkish": "Türkçe",
+			"english": "İngilizce (IELTS: 8.0/9, KPDS: 98/100)"
+		}
+	}
+}

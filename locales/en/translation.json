@@ -1,0 +1,72 @@
+{
+	"header": {
+		"cvOf": "CV of <span>Arif Kalaycı</span>",
+		"title": "Software Engineer"
+	},
+	"about": {
+		"title": "About",
+		"about": "Software engineer and full-stack web developer, passionate about programming. After working for the government for 10 years, i resigned and started a freelance career. I was mainly involved with the design, implementation and maintenance of back-end systems, though i am also interested in all kinds of programming both professionally and personally.",
+		"quote": "Simplicity is the soul of efficiency. <footer> &mdash; Austin Freeman</footer>"		
+	},
+	"projects": {
+		"title": "Projects",
+		"easyTransfer": {
+			"about": "A responsive web application to help transfer agencies. Technologies used: Spring, Hibernate, Google Maps, MySQL"
+		},
+		"spellTest": {
+			"about": "A simple online spelling game. Technologies used: node.js, express, jade, MongoDB"
+		}
+	},
+	"experience": {
+		"title": "Experience",
+		"kkk": {
+			"title": "Software Engineer",
+			"description": "Turkish Land Forces CIS Dept. &mdash; <a href='http://www.kkk.tsk.tr'>www.kkk.tsk</a><br/>10 years, 2003 &mdash; 2013",
+			"highlights": {
+				"1": "Worked with an agile team which followed Domain Driven Design principles to build the 'Logistics Information System' for the Turkish Army.",
+				"2": "Took responsibility in all the phases of SDLC: requirements gathering, analysis, design, implementation, testing, deployment and maintenance.",
+				"3": "Gave support to nearly 1000 multi-locationed users.",
+				"4": "Integrated systems using XML and SOAP technologies.",
+				"5": "Created REST apis for responsive user interfaces.",
+				"6": "Assisted and mentored junior developers."
+			}
+		},
+		"intern": "Summer Intern",
+		"months": "months"
+	},
+	"skills": {
+		"title": "Skills",
+		"databases": {
+			"title": "Databases",
+			"description": "Extensive knowledge of RDBMS's. Hands-on experience with Oracle 9i, 10g, 11g at work. Also used Postgres, MySQL and MongoDB for personal and freelance projects."
+		},
+		"design": {
+			"title": "Design",
+			"description": "Domain Driven Design, UML"
+		},
+		"backend": {
+			"title": "Back-end Programming",
+			"description": "Has deep knowledge of Java ecosystem (especially Spring and Hibernate) and PL/SQL due to my previous work. Currently using and loving Ruby on Rails. Also have experience with PHP and node.js."
+		},
+		"frontend": {
+			"title": "Front-end Programming",
+			"description": "JSP, Javascript, jQuery, HTML5, knockout.js"
+		},
+		"source": {
+			"title": "Source Control",
+			"description": "Big fan of Git, also used Rational ClearCase."
+		}
+	},
+	"info": {
+		"name": "Name",
+		"education": {
+			"title": "Education",
+			"text": "B.Sc. in Computer Engineering, Marmara University (3.13 / 4, 5th in class)"
+		},
+		"languages": {
+			"title": "Languages",
+			"turkish": "Turkish (Native)",
+			"english": "English (IELTS: 8.0/9, KPDS: 98/100)"
+		}
+	}
+}
