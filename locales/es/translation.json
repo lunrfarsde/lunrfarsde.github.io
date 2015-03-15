@@ -1,0 +1,72 @@
+{
+	"header": {
+		"cvOf": "CV de <span>Arif Kalaycı</span>",
+		"title": "Ingenerio de Software"
+	},
+	"about": {
+		"title": "Sobre Mi",
+		"about": "Ingenerio de software y desarrollador, apasionado de programación. Despues de trabajo oficial de 10 años, renuncié y empecé a una carrera freelancer. Actualmente estoy involucrado en todo tipo de programación tanto profesional como personalmente, aunque en pasado mayor parte de mis trabajos fueron diseño, implementación y mantenimiento de sistemas back-end.",
+		"quote": "La simplicidad es el alma de la eficiencia. <footer> &mdash; Austin Freeman</footer>"
+	},
+	"projects": {
+		"title": "Proyectas",
+		"easyTransfer": {
+			"about": "Una aplicación web responde a ayudar a las agencias de transferencia. Tecnologías utilizadas: Spring, Hibernate, Google Maps, MySQL"
+		},
+		"spellTest": {
+			"about": "Un simple juego de ortografía en línea. Tecnologías utilizadas: node.js, express, jade, MongoDB"
+		}
+	},
+	"experience": {
+		"title": "Experiencia",
+		"kkk": {
+			"title": "Ingenerio de Software",
+			"description": "Ejército de Tierra de Turquia, Departemente del Sistemas de Información &mdash; <a href='http://www.kkk.tsk.tr'>www.kkk.tsk</a><br/>10 años, 2003 &mdash; 2013",
+			"highlights": {
+				"1": "Trabajar con un equipo ágil que siguió 'Domain Driven Principles' para construir el 'Sistema de Información Logística' para el ejército turco.",
+				"2": "Estar en responsabilidad en todas las fases del ciclo de desarrollo del programa informático: recopilación de requisitos, análisis, diseño, implementación, prueba, implementación y mantenimiento.",
+				"3": "Dar apoyo a casi 1000 usuarios.",
+				"4": "Integrar sistemas que utilizan tecnologías XML y SOAP.",
+				"5": "Crear apis REST para interfaz de usuario",
+				"6": "Ayudar y entrenar desarrolladores junior"
+			}
+		},
+		"intern": "Pasantía de Verano",
+		"months": "meses"
+	},
+	"skills": {
+		"title": "Competencias",
+		"databases": {
+			"title": "Base de Datos",
+			"description": "Tengo un amplio conocimiento de RDBMS. Experiencia en práctica con Oracle 9i, 10g, 11g en el trabajo. También he utilizado Postgres, MySQL y MongoDB para proyectos personales y freelance"
+		},
+		"design": {
+			"title": "Diseño",
+			"description": "Domain Driven Design, UML"
+		},
+		"backend": {
+			"title": "Programación Back-end",
+			"description": "Tengo un profundo conocimiento de los ecosistemas de Java (en especial de Spring y Hibernate) y PL/SQL debido a mi trabajo anterior. Actualmente estoy utilizando Ruby on Rails. También tengo experiencia con PHP y node.js."
+		},
+		"frontend": {
+			"title": "Programación Front-end",
+			"description": "JSP, Javascript, jQuery, HTML5, knockout.js"
+		},
+		"source": {
+			"title": "Sistemas de Gestión de Código",
+			"description": "Soy un gran fan de Git, también he utilizado Rational ClearCase."
+		}
+	},
+	"info": {
+		"name": "Name",
+		"education": {
+			"title": "Educación",
+			"text": "Licenciatura en Informático, Marmara Universidad (3.13/4, el quinto de clase)"
+		},
+		"languages": {
+			"title": "Idiomas",
+			"turkish": "Turko (Nativo)",
+			"english": "Inglés (IELTS: 8.0/9, KPDS: 98/100)"
+		}
+	}
+}
