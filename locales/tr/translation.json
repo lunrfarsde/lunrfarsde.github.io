@@ -6,7 +6,7 @@
 	"about": {
 		"title": "Hakkında",
 		"about": "Yazılım mühendisi. 10 yıl boyunca askeriyede subay olarak çalıştıktan sonra yüzbaşıyken istifa ederek freelance çalışmaya başladım. Ağırlıklı olarak büyük boyutlu sistemlerin dizaynı, kodlanması ve işletilmesi konusunda deneyimliyim. Ancak her türlü programlama konusunda amatör ve profesyonel olarak ilgiliyim.",
-		"quote": "Basitlik, etkinliğin ruhudur.<footer> &mdash; Austin Freeman</footer>"		
+		"quote": "Basitlik, etkinliğin ruhudur.<footer> &mdash; Austin Freeman</footer>"
 	},
 	"projects": {
 		"title": "Projeler",
@@ -66,7 +66,8 @@
 		"languages": {
 			"title": "Diller",
 			"turkish": "Türkçe",
-			"english": "İngilizce (IELTS: 8.0/9, KPDS: 98/100)"
+			"english": "İngilizce (IELTS: 8.0/9, KPDS: 98/100)",
+			"spanish": "İspanyolca (Orta seviye)"
 		}
 	}
 }
