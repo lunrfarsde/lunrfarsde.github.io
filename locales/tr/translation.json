@@ -15,6 +15,9 @@
 		},
 		"spellTest": {
 			"about": "Basit bir online kelime oyunu. Kullanılan teknolojiler: node.js, express, jade, MongoDB"
+		},
+		"smartis": {
+			"about": "Bir eğitim kurumu için Paas'ta çalışan web uygulaması. Kullanılan teknolojiler: Postgres, Ruby on Rails, Amazon S3, Google Admin SDK, OAuth 2.0"
 		}
 	},
 	"experience": {

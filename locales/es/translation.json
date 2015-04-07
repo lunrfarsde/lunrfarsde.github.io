@@ -15,6 +15,9 @@
 		},
 		"spellTest": {
 			"about": "Un simple juego de ortografía en línea. Tecnologías utilizadas: node.js, express, jade, MongoDB"
+		},
+		"smartis": {
+			"about": "Una aplicación web que se ejecuta en PaaS para una institución de educación. Tecnologías utilizadas: Postgres, Ruby on Rails, Amazon S3, Google Admin SDK, OAuth 2.0"
 		}
 	},
 	"experience": {

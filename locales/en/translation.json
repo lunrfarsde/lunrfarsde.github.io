@@ -15,6 +15,9 @@
 		},
 		"spellTest": {
 			"about": "A simple online spelling game. Technologies used: node.js, express, jade, MongoDB"
+		},
+		"smartis": {
+			"about": "Web application running on PaaS for an education institution. Technologies used: Postgres, Ruby on Rails, Amazon S3, Google Admin SDK, OAuth 2.0"
 		}
 	},
 	"experience": {
