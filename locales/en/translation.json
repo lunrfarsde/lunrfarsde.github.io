@@ -5,7 +5,7 @@
 	},
 	"about": {
 		"title": "About",
-		"about": "Software engineer and full-stack web developer, passionate about programming. After an official work of 10 years, i resigned and started a freelance career. I was mainly involved with the design, implementation and maintenance of back-end systems, though i am also interested in all kinds of programming both professionally and personally.",
+		"about": "Software engineer and full-stack web developer, passionate about programming. After an official work of 10 years, i resigned and started a freelance career. I am interested in programming both professionally and personally, and have design and developing skills for various platforms.",
 		"quote": "Simplicity is the soul of efficiency. <footer> &mdash; Austin Freeman</footer>"
 	},
 	"projects": {
@@ -28,7 +28,8 @@
 				"3": "Gave support to nearly 1000 multi-locationed users.",
 				"4": "Integrated systems using XML and SOAP technologies.",
 				"5": "Created REST apis for responsive user interfaces.",
-				"6": "Assisted and mentored junior developers."
+				"6": "Assisted and mentored junior developers.",
+				"7": "Wrote software documentation and gave user training."
 			}
 		},
 		"intern": "Summer Intern",
@@ -58,7 +59,7 @@
 		}
 	},
 	"info": {
-		"name": "Nombre",
+		"name": "Name",
 		"education": {
 			"title": "Education",
 			"text": "B.Sc. in Computer Engineering, Marmara University (3.13 / 4, 5th in class)"

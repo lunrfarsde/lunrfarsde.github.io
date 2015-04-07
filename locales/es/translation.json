@@ -28,7 +28,8 @@
 				"3": "Dar apoyo a casi 1000 usuarios.",
 				"4": "Integrar sistemas que utilizan tecnologías XML y SOAP.",
 				"5": "Crear apis REST para interfaz de usuario",
-				"6": "Ayudar y entrenar desarrolladores junior"
+				"6": "Ayudar y entrenar desarrolladores junior",
+				"7": "Escribir documentación de software y dar formación de usuarios."
 			}
 		},
 		"intern": "Pasantía de Verano",
@@ -58,7 +59,7 @@
 		}
 	},
 	"info": {
-		"name": "Name",
+		"name": "Nombre",
 		"education": {
 			"title": "Educación",
 			"text": "Licenciatura en Informático, Marmara Universidad (3.13/4, el quinto de clase)"

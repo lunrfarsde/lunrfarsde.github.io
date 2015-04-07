@@ -5,7 +5,7 @@
 	},
 	"about": {
 		"title": "Hakkında",
-		"about": "Yazılım mühendisi. 10 yıl boyunca askeriyede subay olarak çalıştıktan sonra yüzbaşıyken istifa ederek freelance çalışmaya başladım. Ağırlıklı olarak büyük boyutlu sistemlerin dizaynı, kodlanması ve işletilmesi konusunda deneyimliyim. Ancak her türlü programlama konusunda amatör ve profesyonel olarak ilgiliyim.",
+		"about": "Yazılım mühendisi. 10 yıl boyunca orduda subay olarak çalıştıktan sonra yüzbaşıyken istifa ederek freelance çalışmaya başladım. Programlamayla kişisel ve profesyonel olarak ilgiliyim ve çeşitli platformlar için dizayn ve geliştirme yeteneklerine sahibim.",
 		"quote": "Basitlik, etkinliğin ruhudur.<footer> &mdash; Austin Freeman</footer>"
 	},
 	"projects": {
@@ -28,7 +28,8 @@
 				"3": "Ülke çapında yaklaşık 1000 kişilik bir kullanıcı kitlesine destek sağladım.",
 				"4": "Farklı sistemlerin entegrasyonu projelerinde görev aldım.",
 				"5": "Web uygulamaları için REST API geliştirdim.",
-				"6": "Genç yazılımcıları yardım ve rehberlik yaptım."
+				"6": "Genç yazılımcıları yardım ve rehberlik yaptım.",
+				"7": "Yazılım dökümantasyonu yazdım ve kullanıcı eğitimi verdim."
 			}
 		},
 		"intern": "Stajyer",
