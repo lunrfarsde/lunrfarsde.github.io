@@ -19,3 +19,11 @@ div.lang {
 .section-title {
 	width: 120px;
 }
+
+.row-profile .info {
+  	clear: none;
+}
+
+.row-profile .photo {
+	float: left;
+}
