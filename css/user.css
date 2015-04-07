@@ -24,6 +24,22 @@ div.lang {
   	clear: none;
 }
 
-.row-profile .photo {
+.row-profile .round {
 	float: left;
+}
+
+.round {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+}
+
+.round img {
+    display: block;
+/* Stretch
+      height: 100%;
+      width: 100%; */
+	min-width: 100%;
+	min-height: 100%;
 }
