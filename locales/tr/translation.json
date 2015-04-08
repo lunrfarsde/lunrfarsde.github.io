@@ -22,6 +22,16 @@
 	},
 	"experience": {
 		"title": "Deneyim",
+		"freelance": {
+			"title": "Freelancer",
+			"description": "2013 &mdash; şimdi",
+			"highlights": {
+				"1": "Dünya üzerindeki çeşitli şirketlerle uzaktan çalışma yaptım.",
+				"2": "Çeşitli araçlar kullanarak dizayn ve geliştirme yaptım.",
+				"3": "Değişik platformlar için kurulum ve konfigürasyon yaptım.",
+				"4": "Bitmiş projeler için idame desteği verdim."
+			}
+		},
 		"kkk": {
 			"title": "Yazılım Mühendisi",
 			"description": "KKK Bilgi Sistemler Dairesi &mdash; <a href='http://www.kkk.tsk.tr'>www.kkk.tsk</a><br/>10 yıl, 2003 &mdash; 2013",

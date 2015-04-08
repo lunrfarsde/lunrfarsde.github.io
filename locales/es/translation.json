@@ -22,6 +22,16 @@
 	},
 	"experience": {
 		"title": "Experiencia",
+		"freelance": {
+			"title": "Freelancer",
+			"description": "2013 &mdash; ahora",
+			"highlights": {
+				"1": "Trabajar de forma remota con varias empresas de todo el mundo.",
+				"2": "Diseñar y desarrolar soluciónes utilizando varias herramientas.",
+				"3": "Hecho instalación y configuración para diferentes plataformas.",
+				"4": "Dar el apoyo de mantenimiento para los proyectos terminados."
+			}
+		},
 		"kkk": {
 			"title": "Ingeniero de Software",
 			"description": "Ejército de Tierra de Turquia, Departemente del Sistemas de Información &mdash; <a href='http://www.kkk.tsk.tr'>www.kkk.tsk</a><br/>10 años, 2003 &mdash; 2013",
