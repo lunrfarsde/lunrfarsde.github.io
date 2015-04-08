@@ -1,11 +1,11 @@
 {
 	"header": {
 		"cvOf": "CV de <span>Arif Kalaycı</span>",
-		"title": "Ingenerio de Software"
+		"title": "Ingeniero de Software"
 	},
 	"about": {
 		"title": "Sobre Mi",
-		"about": "Ingenerio de software y desarrollador, apasionado de programación. Despues de trabajo oficial de 10 años, renuncié y empecé a una carrera freelancer. Actualmente estoy involucrado en todo tipo de programación tanto profesional como personalmente, aunque en pasado mayor parte de mis trabajos fueron diseño, implementación y mantenimiento de sistemas back-end.",
+		"about": "Ingeniero de software y desarrollador, apasionado de programación. Despues de trabajo oficial de 10 años, renuncié y empecé a una carrera freelancer. Actualmente estoy involucrado en todo tipo de programación tanto profesional como personalmente, aunque en pasado mayor parte de mis trabajos fueron diseño, implementación y mantenimiento de sistemas back-end.",
 		"quote": "La simplicidad es el alma de la eficiencia. <footer> &mdash; Austin Freeman</footer>"
 	},
 	"projects": {
@@ -23,7 +23,7 @@
 	"experience": {
 		"title": "Experiencia",
 		"kkk": {
-			"title": "Ingenerio de Software",
+			"title": "Ingeniero de Software",
 			"description": "Ejército de Tierra de Turquia, Departemente del Sistemas de Información &mdash; <a href='http://www.kkk.tsk.tr'>www.kkk.tsk</a><br/>10 años, 2003 &mdash; 2013",
 			"highlights": {
 				"1": "Trabajar con un equipo ágil que siguió 'Domain Driven Principles' para construir el 'Sistema de Información Logística' para el ejército turco.",
