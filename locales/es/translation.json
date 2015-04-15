@@ -38,11 +38,12 @@
 			"highlights": {
 				"1": "Trabajar con un equipo ágil que siguió 'Domain Driven Principles' para construir el 'Sistema de Información Logística' para el ejército turco.",
 				"2": "Estar en responsabilidad en todas las fases del ciclo de desarrollo del programa informático: recopilación de requisitos, análisis, diseño, implementación, prueba, implementación y mantenimiento.",
-				"3": "Dar apoyo a casi 1000 usuarios.",
-				"4": "Integrar sistemas que utilizan tecnologías XML y SOAP.",
-				"5": "Crear apis REST para interfaz de usuario",
-				"6": "Ayudar y entrenar desarrolladores junior",
-				"7": "Escribir documentación de software y dar formación de usuarios."
+				"3": "Tomó un papel principal en la transformación de la arquitectura cliente-servidor a la arquitectura web.",
+				"4": "Dar apoyo a casi 1000 usuarios.",
+				"5": "Integrar sistemas que utilizan tecnologías XML y SOAP.",
+				"6": "Crear apis REST para interfaz de usuario",
+				"7": "Ayudar y entrenar desarrolladores junior",
+				"8": "Escribir documentación de software y dar formación de usuarios."
 			}
 		},
 		"intern": "Pasantía de Verano",
