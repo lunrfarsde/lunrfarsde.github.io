@@ -26,10 +26,6 @@
 
 	<link rel="icon" type="image/png" href="./img/favicon.png" />
 
-	<link rel="stylesheet" type="text/css" href="ms-Dropdown/css/msdropdown/dd.css" />
-	<link rel="stylesheet" type="text/css" href="ms-Dropdown/css/msdropdown/skin2.css" />
-	<link rel="stylesheet" type="text/css" href="ms-Dropdown/css/msdropdown/flags.css" />
-
 	<link rel="stylesheet" href="css/user.css">
 
 	<script src="js/libs/modernizr-2.0.6.min.js"></script>
@@ -39,11 +35,11 @@
 	<div id="container">
 		<header class="wrap-header">
 			<div class="lang">
-				<select id="lang" style="width:200px;">
-					<option value="en" data-image="ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag gb" data-title="English">English</option>
-					<option value="tr" data-image="ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag tr" data-title="Türkçe">Türkçe</option>
-					<option value="es" data-image="ms-Dropdown/images/msdropdown/icons/blank.gif" data-imagecss="flag es" data-title="Español">Español</option>
-				</select>
+			    <select id="selectLang">
+			        <option value="en" selected="selected" data-imagesrc="img/gb.png">English</option>
+			        <option value="tr" data-imagesrc="img/tr.png">Türkçe</option>
+			        <option value="es" data-imagesrc="img/es.png">Español</option>
+			    </select>
 			</div>
 			<article>
 				<div class="wrap-title">
@@ -354,21 +350,21 @@
 	</footer>
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-	<script src="ms-Dropdown/js/msdropdown/jquery.dd.min.js"></script>
+	<script src="js/libs/jquery.ddslick.js"></script>
 	<script src="js/libs/i18next-1.6.3.min.js"></script>
 
 	<script>
 		$(document).ready(function() {
-			$("select#lang").msDropdown();
-
 			i18n.init({ lng: 'en', preload: ['tr', 'es'], fallbackLng: false }, function() {
 				$(document.body).i18n();
 			});
-		});
 
-		$('select#lang').on('change', function() {
-			i18n.setLng($('select#lang').val(), function() {
-				$(document.body).i18n();
+			$('#selectLang').ddslick({
+				onSelected: function(data) {
+					i18n.setLng(data.selectedData.value, function() {
+                        $(document.body).i18n();
+                    });
+                }
 			});
 		});
 	</script>
