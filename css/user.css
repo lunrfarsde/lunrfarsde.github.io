@@ -1,5 +1,15 @@
+.header {
+	width: 50%;
+}
+
 label.dd-selected-text {
 	line-height: 40px;
+}
+
+.lang {
+	float: right;
+	margin-top: 40px;
+	margin-right: 30px;
 }
 
 .row-profile ul {
@@ -12,12 +22,6 @@ label.dd-selected-text {
 
 .profile-link {
 	margin-bottom: 10px;
-}
-
-div.lang {
-	float: right;
-	margin-top: 40px;
-	margin-right: 30px;
 }
 
 .section-title {
