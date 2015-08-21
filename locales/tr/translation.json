@@ -18,6 +18,9 @@
 		},
 		"smartis": {
 			"about": "Bir eğitim kurumu için Paas'ta çalışan web uygulaması. Kullanılan teknolojiler: Postgres, Ruby on Rails, Amazon S3, Google Admin SDK, OAuth 2.0"
+		},
+		"gft": {
+			"about": "İçerik yönetim sistemi bazlı çok dilli websitesi. Kullanılan teknolojiler: Drupal"
 		}
 	},
 	"experience": {
