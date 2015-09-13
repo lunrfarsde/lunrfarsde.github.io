@@ -56,3 +56,13 @@ label.dd-selected-text {
 #SkypeButton_Call_kalayciarif_1_paraElement {
     margin-top: 0;
 }
+
+body .header {
+	width: 100%;
+}
+
+body .lang {
+	float: none;
+	width: 260px;
+	margin: auto;
+}
