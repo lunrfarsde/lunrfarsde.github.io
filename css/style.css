@@ -664,13 +664,13 @@ textarea:focus,
 }
 
 .row-profile .info {
-  float: left;
+  /* float: left;  Commented out by arif */
 }
 
 /*information table*/
 
 .info {
-  clear: both;
+  /*clear: both;  Commented out by arif */
 }
 
 .info th,

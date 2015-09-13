@@ -53,6 +53,28 @@ label.dd-selected-text {
 	vertical-align: top;
 }
 
+.profile-block.picture {
+	text-align: center;
+}
+
+@media only screen and (max-width: 680px) {
+	.profile-block {
+		display: block;
+	}
+
+	.profile-block.picture {
+		width: 150px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media only screen and (max-width: 480px) { /* Most phones */
+	.profile-block.info {
+		padding-bottom: 1em;
+	}
+}
+
 #SkypeButton_Call_kalayciarif_1_paraElement {
     margin-top: 0;
 }
@@ -65,4 +87,8 @@ body .lang {
 	float: none;
 	width: 260px;
 	margin: auto;
+}
+
+.info th {
+	width: 4em;
 }
