@@ -12,6 +12,10 @@ label.dd-selected-text {
 	margin-right: 30px;
 }
 
+.row-profile article {
+	min-height: 18em;
+}
+
 .row-profile ul {
 	list-style: none;
 	margin: 0;
@@ -28,14 +32,6 @@ label.dd-selected-text {
 	width: 120px;
 }
 
-.row-profile .info {
-  	clear: none;
-}
-
-.row-profile .round {
-	float: left;
-}
-
 .round {
     border-radius: 50%;
     overflow: hidden;
@@ -50,4 +46,13 @@ label.dd-selected-text {
       width: 100%; */
 	min-width: 100%;
 	min-height: 100%;
+}
+
+.profile-block {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#SkypeButton_Call_kalayciarif_1_paraElement {
+    margin-top: 0;
 }
